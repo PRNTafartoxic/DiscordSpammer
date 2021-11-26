@@ -4,3 +4,5 @@ Creation <3
 added auto updater
 1.0.2
 made it a little faster
+1.0.3
+Changed logo
