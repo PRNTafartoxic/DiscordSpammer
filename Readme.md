@@ -13,3 +13,8 @@
 
 **1.0.3**
 ***Changed logo***
+
+
+**1.0.4**
+***Added a button that has a higher speed (wont work with discord)***
+
