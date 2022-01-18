@@ -1,6 +1,6 @@
 # Change Log
 ***Owner/Coder: fxht#6059***
-***Co Owner: Bluntman420***
+***Co Coder: Bluntman420***
 
 **1.0.0:**
 ***Creation <3***
